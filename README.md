@@ -1,2 +1,2 @@
 # coursera
-Repository for coursera training projects
+Repository for coursera learning projects
